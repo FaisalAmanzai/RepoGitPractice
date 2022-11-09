@@ -11,6 +11,9 @@ public class PracticeGit {
 		
 	
 		}
+	public void test() {
+		System.out.println("this is from branch panthers");
+	}
 	}
 
 
